@@ -5,7 +5,7 @@
 -- Checks if iTunes is hidden and keeps that way after script is done.
 --
 -- edited by ptujec
--- last edited 2011-01-20
+-- last edited 2011-10-05
 
 on open (f)
 	tell application "iTunes"
